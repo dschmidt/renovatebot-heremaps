@@ -1,0 +1,31 @@
+lockfileVersion: '9.0'
+
+settings:
+  autoInstallPeers: true
+  excludeLinksFromLockfile: false
+
+importers:
+
+  .:
+    dependencies:
+      '@here/flexpolyline':
+        specifier: 0.1.0
+        version: 0.1.0
+    devDependencies:
+      '@here/maps-api-for-javascript':
+        specifier: 1.49.1
+        version: 1.49.1
+
+packages:
+
+  '@here/flexpolyline@0.1.0':
+    resolution: {integrity: sha512-aiFWozFqTbeAG6S8AOH9QPF7UYjChE1ApV+0dK4kiWp+S2MIJXD/WzHZ9kwd8hDC8gHRAl/yVtJ50uVf26/ygQ==}
+
+  '@here/maps-api-for-javascript@1.49.1':
+    resolution: {integrity: sha1-jdD+XvczM/LNLsCyPuyrwCAoiRw=, tarball: https://repo.platform.here.com/artifactory/api/npm/maps-api-for-javascript/-/@here/maps-api-for-javascript-1.49.1.tgz}
+
+snapshots:
+
+  '@here/flexpolyline@0.1.0': {}
+
+  '@here/maps-api-for-javascript@1.49.1': {}

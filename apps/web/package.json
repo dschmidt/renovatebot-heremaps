@@ -1,0 +1,11 @@
+{
+  "name": "web",
+  "private": true,
+  "type": "module",
+  "devDependencies": {
+    "@here/maps-api-for-javascript": "1.49.1"
+  },
+  "dependencies": {
+    "@here/flexpolyline": "0.1.0"
+  }
+}
