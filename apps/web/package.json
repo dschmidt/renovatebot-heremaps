@@ -6,6 +6,6 @@
     "@here/maps-api-for-javascript": "1.49.1"
   },
   "dependencies": {
-    "uuid": "9.0.1"
+    "uuid": "10.0.0"
   }
 }

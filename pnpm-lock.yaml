@@ -15,8 +15,8 @@ importers:
   apps/web:
     dependencies:
       uuid:
-        specifier: 9.0.1
-        version: 9.0.1
+        specifier: 10.0.0
+        version: 10.0.0
     devDependencies:
       '@here/maps-api-for-javascript':
         specifier: 1.49.1
@@ -27,12 +27,12 @@ packages:
   '@here/maps-api-for-javascript@1.49.1':
     resolution: {integrity: sha1-jdD+XvczM/LNLsCyPuyrwCAoiRw=, tarball: https://repo.platform.here.com/artifactory/api/npm/maps-api-for-javascript/-/@here/maps-api-for-javascript-1.49.1.tgz}
 
-  uuid@9.0.1:
-    resolution: {integrity: sha512-b+1eJOlsR9K8HJpow9Ok3fiWOWSIcIzXodvv0rQjVoOVNpWMpxf1wZNpt4y9h10odCNrqnYp1OBzRktckBe3sA==}
+  uuid@10.0.0:
+    resolution: {integrity: sha512-8XkAphELsDnEGrDxUOHB3RGvXz6TeuYSGEZBOjtTtPm2lwhGBjLgOzLHB63IUWfBpNucQjND6d3AOudO+H3RWQ==}
     hasBin: true
 
 snapshots:
 
   '@here/maps-api-for-javascript@1.49.1': {}
 
-  uuid@9.0.1: {}
+  uuid@10.0.0: {}
