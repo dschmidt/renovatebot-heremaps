@@ -5,5 +5,8 @@
   "packageManager": "pnpm@9.4.0",
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "@here/maps-api-for-javascript": "1.49.1"
+  }
 }

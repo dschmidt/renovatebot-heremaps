@@ -6,7 +6,11 @@ settings:
 
 importers:
 
-  .: {}
+  .:
+    devDependencies:
+      '@here/maps-api-for-javascript':
+        specifier: 1.49.1
+        version: 1.49.1
 
   apps/web:
     dependencies:
