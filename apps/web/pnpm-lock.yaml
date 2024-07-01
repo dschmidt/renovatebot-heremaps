@@ -11,6 +11,9 @@ importers:
       '@here/flexpolyline':
         specifier: 0.1.0
         version: 0.1.0
+      uuid:
+        specifier: 9.0.1
+        version: 9.0.1
     devDependencies:
       '@here/maps-api-for-javascript':
         specifier: 1.49.1
@@ -24,8 +27,14 @@ packages:
   '@here/maps-api-for-javascript@1.49.1':
     resolution: {integrity: sha1-jdD+XvczM/LNLsCyPuyrwCAoiRw=, tarball: https://repo.platform.here.com/artifactory/api/npm/maps-api-for-javascript/-/@here/maps-api-for-javascript-1.49.1.tgz}
 
+  uuid@9.0.1:
+    resolution: {integrity: sha512-b+1eJOlsR9K8HJpow9Ok3fiWOWSIcIzXodvv0rQjVoOVNpWMpxf1wZNpt4y9h10odCNrqnYp1OBzRktckBe3sA==}
+    hasBin: true
+
 snapshots:
 
   '@here/flexpolyline@0.1.0': {}
 
   '@here/maps-api-for-javascript@1.49.1': {}
+
+  uuid@9.0.1: {}

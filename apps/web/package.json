@@ -6,6 +6,7 @@
     "@here/maps-api-for-javascript": "1.49.1"
   },
   "dependencies": {
-    "@here/flexpolyline": "0.1.0"
+    "@here/flexpolyline": "0.1.0",
+    "uuid": "9.0.1"
   }
 }
